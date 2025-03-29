@@ -1,0 +1,38 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Naman\\Downloads\\RVU\\SEM4\\To-Do-List\\backend\\contracts\\TodoList.sol": {
+      "lastModificationDate": 1743230201899,
+      "contentHash": "647add7be61eadf14171ae0c859a41f3",
+      "sourceName": "contracts/TodoList.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [],
+      "artifacts": [
+        "TodoList"
+      ]
+    }
+  }
+}
